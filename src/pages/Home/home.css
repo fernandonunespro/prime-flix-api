@@ -15,6 +15,9 @@
     background-color: #fff;
     padding: 15px;
     border-radius: 4px;
+    display:grid;
+    align-items: center;
+    justify-content: center;
 }
 
 .lista-filmes strong{
@@ -29,9 +32,11 @@
     max-width: 100%;
     max-height: 340px;
     object-fit: cover;
-    display: block;
+    display: flexbox;
     border-top-right-radius: 8px;
     border-top-left-radius: 8px;
+    justify-content: center;
+    align-items: center;
 }
 
 .lista-filmes a{
