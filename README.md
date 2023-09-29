@@ -21,10 +21,6 @@ You can acess here https://first-batman-brown-germany.bohr.io/
 
 <br>
 
-<p align="center">
-  <img alt="Developer Links" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnology
 
 This project was developed with the following technologies:
